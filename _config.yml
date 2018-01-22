@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Antelope
+tagline:             Jump Higher And Higher
+url:                 ""
 paginate:            1
 baseurl:             ""
 
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              linxiang
+  url:               ""
+  email:             linxiangtony@126.com
 
 # Custom vars
 version:             2.0.0
